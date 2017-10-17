@@ -1910,6 +1910,10 @@ button.default-btn.black:hover {
     color: #7e7e7e;
 }
 
+.cognito #c-submit-button {
+    border-radius: 0;
+}
+
 .form-group {
     margin: 0;
 }

@@ -238,6 +238,8 @@ a:focus {
 .navbar-default .navbar-nav > .active > a:focus {
   color: #333;
   background-color: transparent;
+  font-weight: 700;
+  text-decoration: none;
 }
 
 .navbar-default .navbar-toggle {
